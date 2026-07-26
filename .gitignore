@@ -20,3 +20,4 @@ _autosave-*
 *~
 .idea/
 .vscode/
+tmp/
