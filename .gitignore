@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# KiCad temporary, backup, and lock files
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.lck
+*.tmp
+~*.*
+_autosave-*
+*-backups/
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

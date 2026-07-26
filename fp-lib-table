@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MatysLab_Connectors")(type "KiCad")(uri "${KIPRJMOD}/footprints/Connectors.pretty")(options "")(descr "Matys Labbee connector footprints"))
+  (lib (name "MatysLab_IC_Packages")(type "KiCad")(uri "${KIPRJMOD}/footprints/IC_Packages.pretty")(options "")(descr "Matys Labbee integrated-circuit footprints"))
+  (lib (name "MatysLab_Modules")(type "KiCad")(uri "${KIPRJMOD}/footprints/Modules.pretty")(options "")(descr "Matys Labbee module footprints"))
+  (lib (name "MatysLab_Mechanical")(type "KiCad")(uri "${KIPRJMOD}/footprints/Mechanical.pretty")(options "")(descr "Matys Labbee mechanical footprints"))
+  (lib (name "MatysLab_Passives")(type "KiCad")(uri "${KIPRJMOD}/footprints/Passives.pretty")(options "")(descr "Matys Labbee passive-component footprints"))
+  (lib (name "MatysLab_Power")(type "KiCad")(uri "${KIPRJMOD}/footprints/Power.pretty")(options "")(descr "Matys Labbee power-component footprints"))
+  (lib (name "MatysLab_Test_Points")(type "KiCad")(uri "${KIPRJMOD}/footprints/Test_Points.pretty")(options "")(descr "Matys Labbee test-point footprints"))
+  (lib (name "MatysLab_Custom")(type "KiCad")(uri "${KIPRJMOD}/footprints/Custom.pretty")(options "")(descr "Matys Labbee custom footprints"))
+)
